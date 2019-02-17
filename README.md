@@ -10,7 +10,7 @@ In simple words, TaiChi is **Xposed-Styled** Framework, it can load Xposed modul
 
 TaiChi is Xposed-Styled, but it has no relation with Xposed. The only relevance is that TaiChi can load Xposed modules, the implementation of TaiChi and Xposed Framework is very different.
 
-Here are some features if Taichi:
+Here are some features of Taichi:
 
 1. TaiChi has **fully supports for Android Pie**.
 2. TaiChi can run in **non-root mode**.
@@ -20,7 +20,7 @@ Here are some features if Taichi:
 
 ## Usage
 
-TaiChi has two work mode: magisk mode and non-root mode. If you don't want to unlock the bootloader/flash system images, you can use the non-root mode, if you prefer mode powerful functions, just try magisk mode.
+TaiChi has two work mode: magisk mode and non-root mode. If you don't want to unlock the bootloader/flash system images, you can use the non-root mode, if you prefer more powerful functions, just try magisk mode.
 
 ### What is the different with magisk mode and non-root mode?
 
