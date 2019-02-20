@@ -55,3 +55,12 @@ If you want to use magisk mode, please read the [wiki](https://github.com/tiann/
 TaiChi is a Framework, developers can wrote modules to do hooks. The TaiChi modules is fully compatible to Xposed modules, so just wrote the Xposed-Styled modules and it can run well in TaiChi, too.
 
 But there are still some difference from TaiChi Framework and Xposed Framework, please refer [For Xposed Developers](https://github.com/tiann/Tai-Chi/wiki/For-Xposed-developer)
+
+## Discuss
+
+[Telegram Group](https://t.me/vxp_group)
+QQ Group: 729163976
+
+## Contact me
+
+twsxtd@gmail.com
