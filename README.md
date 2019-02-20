@@ -58,8 +58,8 @@ But there are still some difference from TaiChi Framework and Xposed Framework, 
 
 ## Discuss
 
-[Telegram Group](https://t.me/vxp_group)
-QQ Group: 729163976
+- [Telegram Group](https://t.me/vxp_group)
+- QQ Group: 729163976
 
 ## Contact me
 
