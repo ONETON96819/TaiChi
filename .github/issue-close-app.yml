@@ -9,7 +9,10 @@ issueConfigs:
   - "Describe the bug"
 - content:
 # Example 2: feature request
-  - "Describe the solution you'd like"
+  - "Module name"
+  - "Usage"
+  - "Module version"
+  - "APK file"
 - content:
   - "模块名字"
   - "模块用途"
@@ -19,9 +22,14 @@ issueConfigs:
   - "模块名字"
   - "模块版本号"
   - "模块更新"
+  - "模块安装包"
 - content:
+  - "什么问题"
+  - "详细情况"
+  - "太极APP版本"
+  - "Magisk 版本"
+  - "开启的 Xposed 模块"
+  - "开启的其他 Magisk 模块"
   - "手机型号"
   - "ROM版本"
-  - "Xposed模块"
-  - "问题描述"
-  - "Magisk模块"
+  
