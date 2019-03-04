@@ -20,11 +20,10 @@ Magisk 版本：
 太极APP版本：
 开启的 Xposed 模块：
 Xposed模块版本：
-开启的其他 Magisk 模块：
-其他 Magisk 模块版本：
+开启的其他 Magisk 模块：(无）
+其他 Magisk 模块版本：（无）
 手机型号：
 ROM版本：
-APP及版本：
 
 ## 配置文件
 
