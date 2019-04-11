@@ -14,7 +14,7 @@ Here are some features of Taichi:
 
 1. TaiChi has **fully supports for Android Pie**.
 2. TaiChi can run in **non-root mode**.
-3. TaiChi does not effect the android system and it does not hook all apps in system. Only the apps you want to apply Xposed modules are hooked. Other apps in system run in a completely clean environment, which means TaiChi can **pass SafeNet easily**.
+3. TaiChi does not effect the android system and it does not hook all apps in system. Only the apps you want to apply Xposed modules are hooked. Other apps in system run in a completely clean environment, which means TaiChi can **pass SafetyNet easily**.
 4. TaiChi **doesn't need to reboot** sysytem in most cases.
 5. TaiChi is **hard to detect**. TaiChi doesn't modify the libart and app_process, it has nearly no noticeable characteristics.
 
@@ -46,15 +46,15 @@ Non-root mode of TaiChi has some shortcomming even though it do not need to unlo
 1. magisk mode can hook into system process.
 2. magisk mode don't need to modify the apk, and the signature keeps same.
 
-When you flashed the [magisk module](https://github.com/tiann/TaiChi-Magisk) provided by TaiChi, TaiChi app switch to magisk mode automaticly: TaiChi App + magisk module = TaiChi·Magisk. When the magisk module is disabled or removed, TaiChi app turn to non-root mode.
+When you flashed the [magisk module](https://github.com/taichi-framework/TaiChi-Magisk) provided by TaiChi, TaiChi app switch to magisk mode automaticly: TaiChi App + magisk module = TaiChi·Magisk. When the magisk module is disabled or removed, TaiChi app turn to non-root mode.
 
-If you want to use magisk mode, please read the [wiki](https://github.com/tiann/Tai-Chi/wiki/taichi-magisk-beta) carefully.
+If you want to use magisk mode, please read the [wiki](https://github.com/taichi-framework/TaiChi/wiki/taichi-magisk-beta) carefully.
 
 ## For Developers 
 
 TaiChi is a Framework, developers can wrote modules to do hooks. The TaiChi modules is fully compatible to Xposed modules, so just wrote the Xposed-Styled modules and it can run well in TaiChi, too.
 
-But there are still some difference from TaiChi Framework and Xposed Framework, please refer [For Xposed Developers](https://github.com/tiann/Tai-Chi/wiki/For-Xposed-developer)
+But there are still some difference from TaiChi Framework and Xposed Framework, please refer [For Xposed Developers](https://github.com/taichi-framework/TaiChi/wiki/For-Xposed-developer)
 
 ## Discuss
 
