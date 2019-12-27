@@ -126,7 +126,7 @@ export default {
   border-bottom: 1px solid darken($accentColor, 10%);
 
   &:hover {
-    background-color: lighten($accentColor, 10%);
+    background-color: lighten(#282c34, 10%);
   }
 }
 
