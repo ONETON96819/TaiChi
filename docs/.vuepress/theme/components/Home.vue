@@ -123,7 +123,7 @@ export default {
   border-radius: 4px;
   transition: background-color 0.1s ease;
   box-sizing: border-box;
-  border-bottom: 1px solid darken($accentColor, 10%);
+  border-bottom: 1px solid darken(#282c34, 10%);
 
   &:hover {
     background-color: lighten(#282c34, 10%);
@@ -215,7 +215,12 @@ export default {
 
       .action-button {
         font-size: 1rem;
-        padding: 0.6rem 1.2rem;
+        padding: 0.4rem 0.8rem;
+      }
+
+      .action2 {
+        font-size: 1rem;
+        padding: 0.5rem 1.2rem;
       }
     }
 
