@@ -13,6 +13,6 @@ features:
   - title: 可以免 Root 模式运行
     details: 无需 Root 也可以体验各种插件的强大功能，有 Root 之后也能解锁更多的能力。
   - title: 稳定、流畅、安全
-    details: 以最小的影响改动 Android 系统，太极之外的App 无任何影响；弱侵入性不易被检测；不明来源的模块无法使用保障安全。
+    details: 默认白名单，太极之外的App 无任何影响；弱侵入性不易被检测；不明来源的模块无法使用保障安全。
 footer: Copyright © 2018-present weishu
 ---

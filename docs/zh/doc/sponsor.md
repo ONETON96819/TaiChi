@@ -1,4 +1,4 @@
-The maintaining of Tai Chi costs lots of my time, if you appreciate my work, buy me a cup of coffee! :)
+维护 太极 ☯️ 耗费了我大量时间，如果你喜欢这个项目，可以赞助我买包辣条。
 
 ## Paypal
 

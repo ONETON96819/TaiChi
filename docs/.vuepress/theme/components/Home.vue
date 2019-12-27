@@ -8,6 +8,10 @@
       <p class="description">{{ data.tagline || $description || 'Welcome to your VuePress site' }}</p>
 
       <div class="actions">
+        <div class="action" v-if="data.actionText3 && data.actionLink3">
+          <NavLink class="action-button action2" :item="actionLink3" />
+        </div>
+
         <div class="action" v-if="data.actionText2 && data.actionLink2">
           <NavLink class="action-button action2" :item="actionLink2" />
         </div>
@@ -50,6 +54,13 @@ export default {
       return {
         link: this.data.actionLink2,
         text: this.data.actionText2
+      }
+    },
+
+    actionLink3() {
+      return {
+        link: this.data.actionLink3,
+        text: this.data.actionText3
       }
     }
   }

@@ -12,7 +12,7 @@ features:
     details: Fully support Android 5.0 ~ 10. Almost all devices including Samsung, Huawei, Xiaomi, Oppo, Vivo are supported.
   - title: Non-root mode
     details: Use module without unlocking bootloader/root
-  - title: Stable & Smoothly & Safe
+  - title: Stable & Safe
     details: Minimum modification for Android Runtime, hard to be detected.
 footer: Copyright © 2018-present weishu
 ---
