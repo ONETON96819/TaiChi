@@ -39,9 +39,7 @@ module.exports = {
           { text: "Guide", link: "/doc/getting_started/" },
         ],
         lastUpdated: "Last Updated",
-        // 假如你的文档仓库和项目本身不在一个仓库：
         docsRepo: "taichi-framework/TaiChi",
-        // 假如文档不是放在仓库的根目录下：
         docsDir: "docs",
         editLinks: true,
       },
@@ -49,6 +47,8 @@ module.exports = {
         selectText: "语言",
         label: "简体中文",
         editLinkText: "帮我们改进此页面",
+        docsRepo: "taichi-framework/TaiChi",
+        docsDir: "docs",
         serviceWorker: {
           updatePopup: {
             message: "文档有更新",
