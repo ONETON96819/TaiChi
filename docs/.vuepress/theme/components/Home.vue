@@ -117,7 +117,8 @@ export default {
   display: inline-block;
   font-size: 1.2rem;
   color: #fff;
-  background-color: $accentColor;
+  // background-color: $accentColor;
+  background-color: #282c34;
   padding: 0.8rem 1.6rem;
   border-radius: 4px;
   transition: background-color 0.1s ease;
