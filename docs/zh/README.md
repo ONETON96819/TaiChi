@@ -5,6 +5,8 @@ heroText: 太极
 tagline: 一个可以免 Root 运行的类 Xposed 框架
 actionText: 了解更多 →
 actionLink: /zh/doc/
+actionText2: 下载
+actionLink2: download
 features:
   - title: 支持最新系统
     details: 完美支持包括 Android 5.0~10 在内的几乎所有机型（如华为、三星、小米，Oppo和 Vivo 等)。

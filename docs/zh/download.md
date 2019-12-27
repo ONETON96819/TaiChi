@@ -1,20 +1,19 @@
 ---
 title: 太极下载
-layout: post
+sidebar: false
 ---
 
 # 下载
 
 ## 太极 APP
 
-必须安装太极APP之后，所有的功能才能正常使用。
+必须安装太极 APP 之后，所有的功能才能正常使用。
 
 [**稳定版下载地址**][stable1]
 
 如果你需要下载模块，可以去 [模块下载](../module/module_cn.md)。
 
 另外，太极 APP 目前处于 Daily Build 模式，每天都会有最新的安装包可供测试和使用。关注 [Daily Build][daily-build] 即可。
-
 
 ## 太极 Magisk 模块
 

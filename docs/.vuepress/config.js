@@ -1,5 +1,9 @@
 module.exports = {
   title: "Tai Chi",
+  description: "A Rootless Xposed styled Framework",
+  head: [
+    ['link', { rel: 'icon', href: '/logo.svg' }]
+  ],
   locales: {
     // 键名是该语言所属的子路径
     // 作为特例，默认语言可以使用 '/' 作为其路径。
@@ -37,6 +41,7 @@ module.exports = {
         nav: [
           { text: "Home", link: "/" },
           { text: "Guide", link: "/doc/getting_started/" },
+          { text: 'Commit Module', link: 'http://admin.taichi.cool' },
         ],
         lastUpdated: "Last Updated",
         docsRepo: "taichi-framework/TaiChi",
@@ -69,6 +74,7 @@ module.exports = {
         nav: [
           { text: "首页", link: "/zh/" },
           { text: "使用教程", link: "/zh/doc/getting_started/" },
+          { text: '提交模块', link: 'http://admin.taichi.cool' },
         ],
       },
     },
